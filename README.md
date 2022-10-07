@@ -1,7 +1,7 @@
 # Siamese BERT-Networks for extreme imbalance long Legal Texts Classification
 Code used on the research paper intitule Siamese BERT-Networks for extreme imbalance long Legal Texts Classification for THE 2022 FIRST INTERNATIONAL CONFERENCE ON BIG DATA,IOT, WEB INTELLIGENCE AND APPLICATIONS (BIWA) at Sidi Bel Abbes, Algeria :algeria:
 
-:warning: The code was split on unit to fit the limit of Kaggle 👍
+:warning: The code was split on unit to fit the limit of [Kaggle](https://www.kaggle.com/) 👍
 # Preprocessing and generate dataset for training the Siamese BERT-Networks
 ## SCOTUS 
 [preprocessing long text with keybert](https://github.com/hatemamine/Siamese_BERT_LegalTexts_Classification/blob/main/scotuslexglue-preprocesslongtextwithkeybert.ipynb)
