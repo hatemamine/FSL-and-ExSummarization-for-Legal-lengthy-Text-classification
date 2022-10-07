@@ -23,7 +23,7 @@ Code used on the research paper intitule Siamese BERT-Networks for extreme imbal
 # Inference and Evaluation
 [generate embedding using the trained model **SCOTUS dataset preprocessed with KeyBERT**](https://github.com/hatemamine/Siamese_BERT_LegalTexts_Classification/blob/main/scotus-generate-embeddings.ipynb)
 
-[generate embedding using the trained model **SCOTUS dataset**]
+[generate embedding using the trained model **SCOTUS dataset**](https://github.com/hatemamine/Siamese_BERT_LegalTexts_Classification/blob/main/nokeybertscotus-generate-embeddings.ipynb)
 
 [generate embedding using the trained model **LEDGAR dataset**](https://github.com/hatemamine/Siamese_BERT_LegalTexts_Classification/blob/main/ledgar-generate-embeddings.ipynb)
 
