@@ -9,22 +9,23 @@ Code used on the research paper intitule Siamese BERT-Networks for extreme imbal
 [preprocessing long text **without keybert** and generate dataset for training Siamese BERT-Networks](https://github.com/hatemamine/Siamese_BERT_LegalTexts_Classification/blob/main/nokeybertlexgluescotusgeneratdatasetfortrainingsia.ipynb)
 
 # LEDGAR
-[preprocessing short text **without keybert** and generate dataset for training Siamese BERT-Networks]
-(https://github.com/hatemamine/Siamese_BERT_LegalTexts_Classification/blob/main/ledgarlexglue-preprocess-and-generate-dataset.ipynb)
+[preprocessing short text **without keybert** and generate dataset for training Siamese BERT-Networks](https://github.com/hatemamine/Siamese_BERT_LegalTexts_Classification/blob/main/ledgarlexglue-preprocess-and-generate-dataset.ipynb)
 
 ## Training the Siamese BERT-Networks **Bi-Encoder LEGAL-BERT**
 [Training the Siamese BERT-Networks **SCOTUS preprocessed with KeyBERT**](https://github.com/hatemamine/Siamese_BERT_LegalTexts_Classification/blob/main/scotuslexgluesiamesebert-training.ipynb)
+
 [Training the Siamese BERT-Networks **SCOTUS preprocessed without KeyBERT**](https://github.com/hatemamine/Siamese_BERT_LegalTexts_Classification/blob/main/nokeybertscotuslexgluesiamesebert-training.ipynb)
+
 [Training the Siamese BERT-Networks **LEDGAR**](https://github.com/hatemamine/Siamese_BERT_LegalTexts_Classification/blob/main/ledgarlexgluesiamesebert-training.ipynb)
 
-## inference and evaluation
+## Inference and Evaluation
 [generate embedding using the trained model **SCOTUS dataset preprocessed with KeyBERT**](https://github.com/hatemamine/Siamese_BERT_LegalTexts_Classification/blob/main/scotus-generate-embeddings.ipynb)
 
 [generate embedding using the trained model **SCOTUS dataset**]
 
 [generate embedding using the trained model **LEDGAR dataset**](https://github.com/hatemamine/Siamese_BERT_LegalTexts_Classification/blob/main/ledgar-generate-embeddings.ipynb)
 
-
+# Evaluation
 [prediction using KNN and SVM + evaluation F1 score + plot results, visualisation UMAP, Confusion Matrix](https://github.com/hatemamine/Siamese_BERT_LegalTexts_Classification/blob/main/scotus-inference-and-evaluation.ipynb)
 
 
