@@ -1,5 +1,5 @@
 # Siamese BERT-Networks for extreme imbalance long Legal Texts Classification
-Code used on the research paper intitule Siamese BERT-Networks for extreme imbalance long Legal Texts Classification for THE 2022 FIRST INTERNATIONAL CONFERENCE ON BIG DATA,IOT, WEB INTELLIGENCE AND APPLICATIONS (BIWA) at Sidi Bel Abbes, Algeria :algeria:
+Code used on the research paper intitule Siamese BERT-Networks for extreme imbalance long Legal Texts Classification for The 4th National Study Day on Research on Computer Sciences, Algeria :algeria:
 
 :warning: The code was split on unit to fit the limit of [Kaggle](https://www.kaggle.com/) 👍 batch sessions running time < 9 hours
 # Preprocessing and generate dataset for training the Siamese BERT-Networks
