@@ -1,5 +1,5 @@
 # Siamese BERT-Networks for extreme imbalance long Legal Texts Classification
-Code used on the research paper intitule Siamese BERT-Networks for extreme imbalance long Legal Texts Classification for The 4th National Study Day on Research on Computer Sciences, Algeria :algeria:
+Code used on the research paper intitule Siamese BERT-Networks for extreme imbalance long Legal Texts Classification for The 4th  National Study Day on Research on Computer Sciences (JERI’2023 : 4ème édition de la Journée nationale d’Etudes sur la Recherche en Informatique) held on June 10, 2023. , at the University Moulay Tahar in Saida, Algeria :algeria:
 
 :warning: The code was split on unit to fit the limit of [Kaggle](https://www.kaggle.com/) 👍 batch sessions running time < 9 hours
 # Preprocessing and generate dataset for training the Siamese BERT-Networks
@@ -31,9 +31,3 @@ Code used on the research paper intitule Siamese BERT-Networks for extreme imbal
 [KeyBERT SCOTUS prediction using KNN and SVM + evaluation F1 score + plot results, visualisation UMAP, Confusion Matrix](https://github.com/hatemamine/Siamese_BERT_LegalTexts_Classification/blob/main/keybertscotus-inference-and-evaluation.ipynb)
 
 [LEDGAR prediction using KNN and SVM + evaluation F1 score + plot results, visualisation UMAP, Confusion Matrix](https://github.com/hatemamine/Siamese_BERT_LegalTexts_Classification/blob/main/ledgarinference-and-evaluation.ipynb)
-
-
-
-
-
-
