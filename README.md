@@ -4,7 +4,7 @@ Code used on the research paper intitule Siamese BERT-Networks for extreme imbal
 :warning: The code was split on unit to fit the limit of [Kaggle](https://www.kaggle.com/) 👍 batch sessions running time < 9 hours
 # Preprocessing and generate dataset for training the Siamese BERT-Networks
 ## SCOTUS 
-[preprocessing long text with keybert](https://github.com/hatemamine/Siamese_BERT_LegalTexts_Classification/blob/main/scotuslexglue-preprocesslongtextwithkeybert.ipynb)
+[SCOTUS preprocessing long text with keybert & generate dataset for training Siamese BERT-Networks](https://github.com/hatemamine/Siamese_BERT_LegalTexts_Classification/blob/main/scotuslexglue-preprocesslongtextwithkeybert.ipynb)
 
 [generate dataset for training Siamese BERT-Networks](https://github.com/hatemamine/Siamese_BERT_LegalTexts_Classification/blob/main/lexgluescotusgeneratedatasetfortrainingsiamesebert.ipynb)
 
