@@ -6,9 +6,6 @@ Code used on the research paper intitule Siamese BERT-Networks for extreme imbal
 ## SCOTUS 
 [SCOTUS preprocessing long text with keybert & generate dataset for training Siamese BERT-Networks](https://github.com/hatemamine/Siamese_BERT_LegalTexts_Classification/blob/main/scotuslexglue-preprocesslongtextwithkeybert.ipynb)
 
-[generate dataset for training Siamese BERT-Networks](https://github.com/hatemamine/Siamese_BERT_LegalTexts_Classification/blob/main/lexgluescotusgeneratedatasetfortrainingsiamesebert.ipynb)
-
-[preprocessing long text **without keybert** and generate dataset for training Siamese BERT-Networks](https://github.com/hatemamine/Siamese_BERT_LegalTexts_Classification/blob/main/nokeybertlexgluescotusgeneratdatasetfortrainingsia.ipynb)
 
 ## LEDGAR
 [preprocessing short text **without keybert** and generate dataset for training Siamese BERT-Networks](https://github.com/hatemamine/Siamese_BERT_LegalTexts_Classification/blob/main/ledgarlexglue-preprocess-and-generate-dataset.ipynb)
