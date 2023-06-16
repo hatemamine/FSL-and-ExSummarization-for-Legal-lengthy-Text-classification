@@ -28,3 +28,4 @@ Code used on the research paper intitule Siamese BERT-Networks for extreme imbal
 [KeyBERT SCOTUS prediction using KNN and SVM + evaluation F1 score + plot results, visualisation UMAP, Confusion Matrix](https://github.com/hatemamine/Siamese_BERT_LegalTexts_Classification/blob/main/keybertscotus-inference-and-evaluation.ipynb)
 
 [LEDGAR prediction using KNN and SVM + evaluation F1 score + plot results, visualisation UMAP, Confusion Matrix](https://github.com/hatemamine/Siamese_BERT_LegalTexts_Classification/blob/main/ledgarinference-and-evaluation.ipynb)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
