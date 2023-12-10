@@ -1,5 +1,5 @@
-# Few-Shot learning for legal long text classification with Siamese BERT and KNN
-Code used on the research paper intitule Few-Shot learning for legal long text classification with Siamese BERT and KNN for CSA 2024
+# Few-Shot learning and Extractive Summarization for Legal lengthy Text classification
+Code used on the research paper intitule Few-Shot learning and Extractive Summarization for Legal lengthy Text classification, presented in CSA 2024
 The 6th Conference on Computing Systems and Applications, April 23-24, 2024, Algiers, Algeria :algeria: held in the Ecole Militaire Polytechnique - Chahid Abderrahmane Taleb (EMP) located in  Bordj El Bahri Algiers.
 
 :warning: The code was split on unit to fit the limit of [Kaggle](https://www.kaggle.com/) 👍 batch sessions running time < 9 hours
