@@ -1,5 +1,6 @@
 # Few-Shot learning for legal long text classification with Siamese BERT and KNN
-Code used on the research paper intitule Siamese BERT-Networks for extreme imbalance long Legal Texts Classification for The 4th  National Study Day on Research on Computer Sciences (JERI’2023 : 4ème édition de la Journée nationale d’Etudes sur la Recherche en Informatique) held on June 10, 2023. , at the University Moulay Tahar in Saida, Algeria :algeria:
+Code used on the research paper intitule Few-Shot learning for legal long text classification with Siamese BERT and KNN for CSA 2024
+The 6th Conference on Computing Systems and Applications, April 23-24, 2024, Algiers, Algeria :algeria: held in the Ecole Militaire Polytechnique - Chahid Abderrahmane Taleb (EMP) located in  Bordj El Bahri Algiers.
 
 :warning: The code was split on unit to fit the limit of [Kaggle](https://www.kaggle.com/) 👍 batch sessions running time < 9 hours
 # Preprocessing and generate dataset for training the Siamese BERT-Networks
@@ -28,4 +29,3 @@ Code used on the research paper intitule Siamese BERT-Networks for extreme imbal
 [KeyBERT SCOTUS prediction using KNN and SVM + evaluation F1 score + plot results, visualisation UMAP, Confusion Matrix](https://github.com/hatemamine/Siamese_BERT_LegalTexts_Classification/blob/main/keybertscotus-inference-and-evaluation.ipynb)
 
 [LEDGAR prediction using KNN and SVM + evaluation F1 score + plot results, visualisation UMAP, Confusion Matrix](https://github.com/hatemamine/Siamese_BERT_LegalTexts_Classification/blob/main/ledgarinference-and-evaluation.ipynb)
-![alt text](https://github.com/hatemamine/Siamese_BERT_LegalTexts_Classification/blob/main/Jeri23_Saida_Research%20Poster.png?raw=true)
